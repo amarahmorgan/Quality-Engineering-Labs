@@ -1,0 +1,6 @@
+//Expected response – insufficient funds 
+//Status code – 400 Bad request 
+{ 
+   "status”: “FAILED” , 
+   "error" : “Insufficient Funds”
+}

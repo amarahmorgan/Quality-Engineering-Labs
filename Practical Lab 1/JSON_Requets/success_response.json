@@ -1,0 +1,7 @@
+//Expected response – success
+//Status code: 200 OK
+{ 
+    "status” : “SUCCESS” , 
+    "transactionID": "TXN12345" ,
+    "remainingBalance" : 1000 
+}

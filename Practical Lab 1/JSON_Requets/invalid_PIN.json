@@ -1,0 +1,6 @@
+//Expected response – invalid PIN 
+//Status code : 401 unauthorised 
+{ 
+   “status” : “FAILED” , 
+   “error” : “Invalid PIN”
+}
