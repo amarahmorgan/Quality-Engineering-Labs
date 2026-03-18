@@ -44,7 +44,7 @@ Example skills practiced:
 * Visiting URLs
 * Clicking buttons
 * Filling forms
-* Assertions
+* Assertions (expect)
 * Locators
 * Test structure
 
